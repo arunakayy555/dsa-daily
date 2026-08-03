@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-class Solution {
+class binarySumGoal {
     public int numSubarraysWithSum(int[] nums, int goal) {
         /**
         1. init a hashmap - to store sums and their frequencies

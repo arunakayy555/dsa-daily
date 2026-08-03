@@ -1,6 +1,6 @@
 import java.util.HashMap;;
 
-class Solution {
+class subArraySumEqualsK {
     public int subarraySum(int[] nums, int k) {
         int sum=0;
         int count=0;

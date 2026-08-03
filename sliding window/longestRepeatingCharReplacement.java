@@ -1,4 +1,4 @@
-class Solution {
+class longestRepeatingCharReplacement {
     public int characterReplacement(String s, int k) {
         int left=0;
         int maxLen = 0; int maxFreq =  0;

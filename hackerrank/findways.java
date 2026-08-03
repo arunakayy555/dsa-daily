@@ -1,5 +1,5 @@
 public class findways {
-    /*
+    /* 
     import java.io.*;
 import java.util.*;
 
