@@ -19,5 +19,6 @@ class armstrong {
 
         if(original == sum) System.out.println("arms!");
         else System.out.println("nopes :)");
+        sc.close();
     }
 }
